@@ -6,7 +6,7 @@ I am a passionate cross-platform application developer and programming enthusias
 
 ## 🛠️ Skills and Tools
 
-<img src="https://github.com/byronnDev/byronnDev/assets/38868773/d2b3ed0d-fefd-4a7f-b90e-8b06412fd239" align="right" width="400" alt="coding">
+<img src="https://raw.githubusercontent.com/XxFenixDCxX/XxFenixDCxX/main/coding.gif" align="right" width="400" alt="coding">
 
 - 💻 **Backend Programming Languages**: Visual Basic (.NET) | Python | Java | C# | Entity Framework | Android Studio
 - 🌐 **Web Development**: HTML | CSS | SASS | JavaScript | JQuery | PHP | Angular | Symfony
