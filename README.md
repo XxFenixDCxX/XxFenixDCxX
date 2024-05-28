@@ -9,7 +9,7 @@ Soy un apasionado desarrollador de aplicaciones multiplataforma y entusiasta de 
 
 <img src="https://github.com/byronnDev/byronnDev/assets/38868773/d2b3ed0d-fefd-4a7f-b90e-8b06412fd239" align="right" width="400" alt="coding">
 
-- 💻 **Lenguajes de programación backend**: Visual Basic (.NET) | Python | Java | C# | Entity Framework
+- 💻 **Lenguajes de programación backend**: Visual Basic (.NET) | Python | Java | C# | Entity Framework | Android Studio
 - 🌐 **Desarrollo web**: HTML | CSS | SASS | JavaScript | JQuery | PHP | Angular | Symfony
 - <image src="https://codingtroops.com/wp-content/uploads/2020/07/code-512.png" width=20 heigth=auto>‎ ‎ **Scripting**: Batch | Bash
 - 🗂️‎ **Bases de Datos**: SQL | SQLServer | Access | Realm (NoSQL) | Firebase
